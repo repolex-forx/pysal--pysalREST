@@ -1,0 +1,7 @@
+[2026-11-08T00:18:34Z] === AST ITERATION 1 START | repo=pysal/pysalREST sha=6ef0e961 ===
+[2026-11-08T00:18:34Z] [iter=1] PHASE START: ast repo=pysal/pysalREST sha=6ef0e961
+[2026-11-08T00:18:34Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T00:18:48Z] [iter=1] AST chunks built count=1 triples=147320
+[2026-11-08T00:18:48Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/6ef0e96151475018ac60953bba85822f7dbb33a8/.complete
+[2026-11-08T00:18:48Z] [iter=1] PHASE END: ast elapsed_s=13 elapsed_min=0.2
+[2026-11-08T00:18:48Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
